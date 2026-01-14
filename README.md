@@ -9,13 +9,8 @@
 
 ## 🎓 Professional Certifications
 
-<a href="https://www.coursera.org/professional-certificates/google-it-support" target="_blank">
-  <img src="https://images.credly.com/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/image.png" alt="Google IT Support Professional Certificate" width="110"/>
-</a>
-
-<a href="https://belkasoft.com/" target="_blank">
-  <img src="https://belkasoft.com/static/images/logo.svg" alt="Belkasoft Windows Forensics" width="110"/>
-</a>
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Belkasoft Windows Forensics](https://img.shields.io/badge/Belkasoft_Windows_Forensics-2E2E2E?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
