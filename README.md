@@ -9,15 +9,16 @@
 
 ## 🎓 Certifications
 
+## 🎓 Certifications
+
 <div align="left">
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/XXXXX" width="140" alt="eJPT"/>
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/YYYYY" width="140" alt="ICCA"/>
-
-<img src="https://images.credly.com/images/XXXXXXXX/mcsi-mpt.png" width="140" alt="MCSI MPT"/>
-<img src="https://images.credly.com/images/XXXXXXXX/msaf.png" width="140" alt="MCSI MSAF"/>
+<a href="https://www.credly.com/badges/1fd46a21-e5e7-4b39-9ea8-1df1d9a8ace1/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/1fd46a21-e5e7-4b39-9ea8-1df1d9a8ace1/image.png" width="140" alt="Certification Badge"/>
+</a>
 
 </div>
+
 
 
 ---
