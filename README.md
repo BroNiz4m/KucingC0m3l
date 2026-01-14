@@ -7,10 +7,18 @@
 - 📚 Currently learning: Cloud & Security Fundamentals
 ---
 
-## 🎓 Professional Certifications
+## 🎓 Certifications
 
-![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Belkasoft Windows Forensics](https://img.shields.io/badge/Belkasoft_Windows_Forensics-2E2E2E?style=for-the-badge&logo=windows&logoColor=white)
+<div align="left">
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/XXXXX" width="140" alt="eJPT"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/YYYYY" width="140" alt="ICCA"/>
+
+<img src="https://images.credly.com/images/XXXXXXXX/mcsi-mpt.png" width="140" alt="MCSI MPT"/>
+<img src="https://images.credly.com/images/XXXXXXXX/msaf.png" width="140" alt="MCSI MSAF"/>
+
+</div>
+
 
 ---
 
