@@ -13,10 +13,11 @@ Right now, I'm deep into IT systems, SOC stuff, and tackling real-world cybersec
 
 ---
 
-### 💡 Fun Fact / Skills in Action
-- Constantly experimenting with new tech and tools  
-- Practicing cybersecurity puzzles and hands-on challenges  
-- Building handy scripts and tools to simplify everyday tasks 
+### 💡 How I Work
+- I prefer learning by trying things out instead of just reading docs  
+- I keep notes so I don’t repeat the same mistakes twice  
+- I enjoy figuring things out step by step, even if it takes time  
+- I believe breaking things (safely) is part of understanding them
 
 ---
 
