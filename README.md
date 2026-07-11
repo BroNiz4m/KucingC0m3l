@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
 
-I enjoy figuring out how systems work and solving technical problems.<br>
+<p>
+I enjoy figuring out how systems work and solving technical problems.
+</p>
+
+<p>
 These days, I'm focused on IT systems, SOC, cybersecurity, vulnerability research, and CVE hunting.
+</p>
 
 ---
 
