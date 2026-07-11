@@ -1,23 +1,26 @@
-<h1 align="center">Hi, I'm KucingC0m3l 👋</h1>
-<h3 align="center">💻 IT Specialist | 🔐 Cybersecurity Enthusiast | 🛠 Practical Problem Solver</h3>
+<h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
+<h3 align="center"> IT Specialist</h3>
 
-I love tinkering with systems, figuring out how they work, and solving tech problems hands-on.  
-Right now, I'm deep into IT systems, SOC stuff, and tackling real-world cybersecurity challenges.
+I enjoy figuring out how systems work and solving technical problems along the way.
 
----
-
-### 🌟 What I Do
-- **Hands-on IT & Problem Solving**: Exploring systems, experimenting safely, and fixing practical tech issues  
-- **Cybersecurity & SOC Learning**: Practicing CTF challenges, exploring SOC concepts, and tackling real-world security puzzles  
-- **Web Development & Scripting**: Building small web apps, automation scripts, and tools to make IT tasks easier 
+These days, I'm spending most of my time learning about IT systems, SOC, and practical cybersecurity through hands-on projects and challenges.
 
 ---
 
-### 💡 How I Work
-- I prefer learning by trying things out instead of just reading docs  
-- I keep notes so I don’t repeat the same mistakes twice  
-- I enjoy figuring things out step by step, even if it takes time  
-- I believe breaking things (safely) is part of understanding them
+### What I Do
+
+- **IT Systems** — Understanding how systems work, troubleshooting issues, and learning by doing.
+- **Cybersecurity** — Solving CTF challenges, exploring SOC concepts, and sharpening practical security skills.
+- **Web Development** — Building web applications, automation scripts, and small tools that solve everyday problems. 
+
+---
+
+### How I Learn
+
+- I learn best by building and experimenting.
+- I document what I learn for future reference.
+- I take the time to understand how things work.
+- Breaking things is sometimes part of the learning process.
 
 ---
 
