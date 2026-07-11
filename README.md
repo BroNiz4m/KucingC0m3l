@@ -1,23 +1,22 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
 
-I enjoy figuring out how systems work and solving technical problems.<br><br>
-
+I enjoy figuring out how systems work and solving technical problems.<br>
 These days, I'm focused on IT systems, SOC, and practical cybersecurity through projects and CTF challenges.
 
 ---
 
 ### What I Do
 
-- **IT Systems:** Understanding how systems work, troubleshooting issues, and learning by doing.
-- **Cybersecurity:** Solving CTF challenges, exploring SOC concepts, and sharpening practical security skills.
-- **Web Development:** Building web applications, automation scripts, and small tools that solve everyday problems. 
+- **IT Systems:** Understanding systems, troubleshooting issues, and learning by doing.
+- **Cybersecurity:** Solving CTF challenges, exploring SOC concepts, and improving practical security skills.
+- **Web Development:** Building web applications, automation scripts, and tools for everyday tasks.
 
 ---
 
 ### How I Learn
 
 - I learn best by building and experimenting.
-- I document what I learn for future reference.
+- I document what I learn so I can look back later.
 - I take the time to understand how things work.
 - Breaking things is sometimes part of the learning process.
 
