@@ -21,8 +21,6 @@ I enjoy figuring out how systems work and solving technical problems.
 
 ---
 
-## Toolbox
-
 <h3 align="left"> Toolbox</h3>
 
 <p align="left">
