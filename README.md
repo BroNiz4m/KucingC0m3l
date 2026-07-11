@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
-I enjoy figuring out how systems work and solving technical problems along the way.
 
+I enjoy figuring out how systems work and solving technical problems along the way.<br><br>
 These days, I'm spending most of my time learning about IT systems, SOC, and practical cybersecurity through hands-on projects and challenges.
 
 ---
