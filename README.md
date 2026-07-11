@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
-<h3 align="center"> IT Specialist</h3>
-
 I enjoy figuring out how systems work and solving technical problems along the way.
 
 These days, I'm spending most of my time learning about IT systems, SOC, and practical cybersecurity through hands-on projects and challenges.
@@ -9,9 +7,9 @@ These days, I'm spending most of my time learning about IT systems, SOC, and pra
 
 ### What I Do
 
-- **IT Systems** — Understanding how systems work, troubleshooting issues, and learning by doing.
-- **Cybersecurity** — Solving CTF challenges, exploring SOC concepts, and sharpening practical security skills.
-- **Web Development** — Building web applications, automation scripts, and small tools that solve everyday problems. 
+- **IT Systems:** Understanding how systems work, troubleshooting issues, and learning by doing.
+- **Cybersecurity:** Solving CTF challenges, exploring SOC concepts, and sharpening practical security skills.
+- **Web Development:** Building web applications, automation scripts, and small tools that solve everyday problems. 
 
 ---
 
