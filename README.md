@@ -13,7 +13,7 @@ These days, I'm focused on IT systems, SOC, and practical cybersecurity through 
 ### What I Do
 
 - **IT Systems:** Understanding systems, troubleshooting issues, and learning by doing.
-- **Cybersecurity:** Solving CTF challenges, exploring SOC concepts, and improving practical security skills.
+- **Cybersecurity:** CTFs, SOC, vulnerability research, and CVE hunting.
 - **Web Development:** Building web applications, automation scripts, and tools for everyday tasks.
 
 ---
