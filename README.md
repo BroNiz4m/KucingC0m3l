@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
 
-<p>
 I enjoy figuring out how systems work and solving technical problems.
-</p>
-
-<p>
-These days, I'm focused on IT systems, SOC, cybersecurity, vulnerability research, and CVE hunting.
-</p>
 
 ---
 
@@ -24,6 +18,7 @@ These days, I'm focused on IT systems, SOC, cybersecurity, vulnerability researc
 - I document what I learn so I can look back later.
 - I take the time to understand how things work.
 - Breaking things is sometimes part of the learning process.
+
 
 ---
 
