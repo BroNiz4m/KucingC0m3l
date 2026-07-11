@@ -7,7 +7,7 @@ I enjoy figuring out how systems work and solving technical problems.
 ### What I Work On
 
 - **IT Systems:** Understanding systems, troubleshooting, and learning by doing.
-- **Cybersecurity:** Vulnerability research, CVE hunting, CTFs and SOC.
+- **Cybersecurity:** Vulnerability research, CTFs, and SOC.
 - **Web Development:** Building web applications, automation scripts, and useful tools.
 ---
 
