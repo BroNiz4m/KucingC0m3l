@@ -1,19 +1,14 @@
 <h1 align="center">Hi, I'm Shahrul Nizam 👋</h1>
 
-<p>
-I enjoy figuring out how systems work and solving technical problems.
-</p>
-
-<p>
-These days, I'm focused on IT systems, SOC, and practical cybersecurity through projects and CTF challenges.
-</p>
+I enjoy figuring out how systems work and solving technical problems.<br>
+These days, I'm focused on IT systems, SOC, cybersecurity, vulnerability research, and CVE hunting.
 
 ---
 
-### What I Do
+### What I Work On
 
 - **IT Systems:** Understanding systems, troubleshooting issues, and learning by doing.
-- **Cybersecurity:** CTFs, SOC, vulnerability research, and CVE hunting.
+- **Cybersecurity:** Vulnerability research, CVE hunting, CTFs.
 - **Web Development:** Building web applications, automation scripts, and tools for everyday tasks.
 
 ---
