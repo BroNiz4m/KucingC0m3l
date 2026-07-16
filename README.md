@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Shahrul Nizam</h1>
 
 <p>
-Focused on security research, understanding systems, and building practical solutions.
+Focused on security research, IT systems, and practical technical solutions.
 </p>
 
 ---
 
-## Areas of Focus
+## Technical Focus
 
 - **Vulnerability Research:** Identifying and validating security vulnerabilities.
 - **CVE Discovery & Disclosure:** Documenting and publishing officially assigned CVEs.
 - **IT Systems:** Understanding system behaviour, troubleshooting issues, and solving technical problems.
 - **Web Development & Automation:** Developing web applications, scripts, and tools for practical use.
-
+  
 ---
 
 ## Toolbox
