@@ -1,24 +1,35 @@
-<h1 align="center">Hi, I'm Shahrul Nizam </h1>
+<h1 align="center">Hi, I'm Shahrul Nizam</h1>
 
-Interested in understanding how systems work, researching security vulnerabilities, and building practical solutions.
+<p>
+  Interested in understanding how systems work, researching security vulnerabilities, and building practical solutions.
+</p>
 
 ---
-### Areas of Focus
 
-#### Security Research
+<h3>Areas of Focus</h3>
 
-- Vulnerability Research
-- Responsible Disclosure
-- CVE Discovery & Publication
-- Proof-of-Concept (PoC) Development
-
-#### Technical Interests
-
-- IT Systems
-- Web Development
-- Automation & Tooling
-- Linux
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Security Research</h4>
+      <ul>
+        <li>Vulnerability Research</li>
+        <li>Responsible Disclosure</li>
+        <li>CVE Discovery &amp; Publication</li>
+        <li>Proof-of-Concept (PoC) Development</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Technical Interests</h4>
+      <ul>
+        <li>IT Systems</li>
+        <li>Web Development</li>
+        <li>Automation &amp; Tooling</li>
+        <li>Linux</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,7 +46,6 @@ Interested in understanding how systems work, researching security vulnerabiliti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </p>
-
 
 
 
