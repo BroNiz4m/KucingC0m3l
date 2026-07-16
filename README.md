@@ -1,22 +1,21 @@
-<h1 align="center">Shahrul Nizam Here</h1>
+<h1 align="center">Hi, I'm Shahrul Nizam</h1>
 
 <p>
-Focused on understanding systems, researching security vulnerabilities, and building practical solutions.
+Focused on security research, understanding systems, and building practical solutions.
 </p>
 
 ---
 
-### Areas of Focus
+## Areas of Focus
 
 - **Vulnerability Research:** Identifying and validating security vulnerabilities.
-- **CVE Discovery & Disclosure:** Researching, documenting, and publishing officially assigned CVEs.
-- **IT Systems:** Understanding system behaviour, troubleshooting, and technical problem solving.
-- **Web Development & Automation:** Building practical web applications, scripts, and tools.
-
+- **CVE Discovery & Disclosure:** Documenting and publishing officially assigned CVEs.
+- **IT Systems:** Understanding system behaviour, troubleshooting issues, and solving technical problems.
+- **Web Development & Automation:** Developing web applications, scripts, and tools for practical use.
 
 ---
 
-<h3 align="left">Toolbox</h3>
+## Toolbox
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -29,7 +28,4 @@ Focused on understanding systems, researching security vulnerabilities, and buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </p>
-
-
-
 
