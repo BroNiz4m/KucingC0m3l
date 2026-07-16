@@ -1,35 +1,26 @@
 <h1 align="center">Hi, I'm Shahrul Nizam</h1>
 
 <p>
-  Interested in understanding how systems work, researching security vulnerabilities, and building practical solutions.
+Focused on understanding systems, researching security vulnerabilities, and building practical solutions.
 </p>
 
 ---
 
-<h3>Areas of Focus</h3>
+### Areas of Focus
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Security Research</h4>
-      <ul>
-        <li>Vulnerability Research</li>
-        <li>Responsible Disclosure</li>
-        <li>CVE Discovery &amp; Publication</li>
-        <li>Proof-of-Concept (PoC) Development</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Technical Interests</h4>
-      <ul>
-        <li>IT Systems</li>
-        <li>Web Development</li>
-        <li>Automation &amp; Tooling</li>
-        <li>Linux</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Vulnerability Research:** Identifying and validating security vulnerabilities.
+- **CVE Discovery & Disclosure:** Researching, documenting, and publishing officially assigned CVEs.
+- **IT Systems:** Understanding system behaviour, troubleshooting, and technical problem solving.
+- **Web Development & Automation:** Building practical web applications, scripts, and tools.
+
+---
+
+### Philosophy
+
+- Practical over theoretical.
+- Understand the root cause, not just the symptoms.
+- Document findings for future reference.
+- Build whatever catches my interest.
 
 ---
 
