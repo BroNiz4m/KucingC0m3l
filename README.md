@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shahrul Nizam</h1>
 
 <p>
-Focused on security research, IT systems, and practical technical solutions.
+Focused on security research, IT systems, and practical problem solving.
 </p>
 
 ---
