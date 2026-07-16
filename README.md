@@ -13,14 +13,6 @@ Focused on understanding systems, researching security vulnerabilities, and buil
 - **IT Systems:** Understanding system behaviour, troubleshooting, and technical problem solving.
 - **Web Development & Automation:** Building practical web applications, scripts, and tools.
 
----
-
-### Approach
-
-- I focus on practical, reproducible technical work.
-- I document findings clearly for future reference.
-- I prefer understanding the root cause rather than applying temporary fixes.
-- I build whatever catches my interest.
 
 ---
 
