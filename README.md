@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shahrul Nizam</h1>
+<h1 align="center">Greetings, I'm Nizam</h1>
 
 <p>
 Focused on security research, IT systems, and practical problem solving.
