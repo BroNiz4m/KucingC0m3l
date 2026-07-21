@@ -1,14 +1,32 @@
+```text
+              .:+:.                     Name        : Shahrul Nizam
+            .#@+                        Handle      : @BroNiz4m
+           +@@+                         Mostly into : Security research
+          +@@@                                        Systems & hardware
+         .@@@@                          Projects    : Web projects · automation
+  ..     .@@@@+                         CVEs        : 2 officially assigned
+          #@@@@+                        Right now   : Probably sleeping.
+           #@@@@#:.         ::
+            +#@@@@@#++:::+##:     .
+              :+#@@@@@@##+.
+                   ...
+
+             .+###@#+:
+             :@@@@@@#:.
+             .#@@@@#
+              +@@@@#:        :
+             .#@@@@@@:
+           +#@@@@@@@@:
+    ..   :#@@@@@@@@@#
+  +#:.  .#@@@@@@@@@#
+ :@.    #@@@@@@@##@+
+ :@.    #@@@@@@@@#@:
+  +#:   :@@@@@@@#:#+
+   .+##+#@@@@@@@####+..
+ ..::..:.................:...
+```
+
 ```bash
-broniz4m@github:~$ cat ~/profile/summary
-
-Name        : Shahrul Nizam
-Handle      : @BroNiz4m
-Mostly into : Security research · Systems & hardware
-              Web projects · automation
-Published   : 2 officially assigned CVEs
-Right now   : Probably sleeping.
-
-
 broniz4m@github:~$ sed 's/^/# /' ~/profile/about.md
 
 # Most things here started because I got curious and kept digging.
@@ -29,16 +47,20 @@ CVE-2026-63082
 
 
 broniz4m@github:~/CVE-Disclosures/CVE-2026$ for file in CVE-*/README.md; do
->   sed -n '1s/^# //p' "$file"
+>   sed -n '1s/^# //p' "$file" | fold -s -w 72
+>   echo
 > done
 
-CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via Ticket Notes Field
-CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access Control via Agent Assignment
+CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via
+Ticket Notes Field
+
+CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access
+Control via Agent Assignment
 
 
 broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~/workspace
 
-broniz4m@github:~/workspace$ LC_ALL=C ls -1d */
+broniz4m@github:~/workspace$ ls -1d */
 
 automation/
 cve-disclosures/
