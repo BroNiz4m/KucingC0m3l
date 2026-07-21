@@ -63,16 +63,16 @@ broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~/workspace
 broniz4m@github:~/workspace$ ls -1d */
 
 automation/
-cve-disclosures/
 experiments/
+notes/
 portfolio/
 web-projects/
 write-ups/
 
 
-broniz4m@github:~/workspace$ cd ~/notes
+broniz4m@github:~/workspace$ cd notes
 
-broniz4m@github:~/notes$ cat process.txt
+broniz4m@github:~/workspace/notes$ cat process.txt
 
 Reproduce it.
 Figure out what actually caused it.
@@ -80,17 +80,10 @@ Keep notes before I forget.
 Try not to turn every small idea into a three-week project.
 
 
-broniz4m@github:~/notes$ tail -n 1 current.log
+broniz4m@github:~/workspace/notes$ tail -n 1 current.log
 
 Still building whatever catches my interest.
 
 
-broniz4m@github:~/notes$ cd ~
-
-broniz4m@github:~$ cat cat.txt
-
-operation interrupted — paw detected
-
-
-broniz4m@github:~$ █
+broniz4m@github:~/workspace/notes$ cd ~
 ```
