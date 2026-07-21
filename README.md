@@ -3,10 +3,9 @@
             .#@+                        Handle      : @BroNiz4m
            +@@+                         Mostly into : Security research
           +@@@                                        Systems & hardware
-         .@@@@                          Projects    : Web projects · automation
-  ..     .@@@@+                         CVEs        : 2 officially assigned
-          #@@@@+                        Right now   : Probably sleeping.
-           #@@@@#:.         ::
+         .@@@@                          CVEs        : 2 officially assigne
+  ..     .@@@@+                         Right now   : Probably sleeping.
+          #@@@@+                        
             +#@@@@@#++:::+##:     .
               :+#@@@@@@##+.
                    ...
