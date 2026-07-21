@@ -1,31 +1,74 @@
-<h1 align="center">Greetings, I'm Nizam</h1>
+```bash
+broniz4m@github:~$ cat ~/profile/summary
 
-<p>
-Focused on security research, IT systems, and practical problem solving.
-</p>
+Name        : Shahrul Nizam
+Handle      : @BroNiz4m
+Mostly into : Security research · Systems & hardware
+              Web projects · automation
+Published   : 2 officially assigned CVEs
+Right now   : Probably sleeping.
 
----
 
-## Technical Focus
+broniz4m@github:~$ sed 's/^/# /' ~/profile/about.md
 
-- **Vulnerability Research:** Identifying and validating security vulnerabilities.
-- **CVE Discovery & Disclosure:** Documenting and publishing officially assigned CVEs.
-- **IT Systems:** Understanding system behaviour, troubleshooting issues, and solving technical problems.
-- **Web Development & Automation:** Developing web applications, scripts, and tools for practical use.
-  
----
+# Most things here started because I got curious and kept digging.
+#
+# Sometimes it's a broken laptop, sometimes a web bug,
+# and sometimes a small idea that refuses to stay small.
+#
+# I test things, trace what happened, and write down the useful
+# parts before I forget them.
 
-## Toolbox
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</p>
+broniz4m@github:~$ cd ~/CVE-Disclosures/CVE-2026
 
+broniz4m@github:~/CVE-Disclosures/CVE-2026$ find . -maxdepth 1 -mindepth 1 -type d -name 'CVE-*' -printf '%f\n' | sort
+
+CVE-2026-63081
+CVE-2026-63082
+
+
+broniz4m@github:~/CVE-Disclosures/CVE-2026$ for file in CVE-*/README.md; do
+>   sed -n '1s/^# //p' "$file"
+> done
+
+CVE-2026-63081 - Perfect Support Ticketing System 1.7 Stored XSS via Ticket Notes Field
+CVE-2026-63082 - Perfect Support Ticketing System 1.7 Broken Access Control via Agent Assignment
+
+
+broniz4m@github:~/CVE-Disclosures/CVE-2026$ cd ~/workspace
+
+broniz4m@github:~/workspace$ LC_ALL=C ls -1d */
+
+automation/
+cve-disclosures/
+experiments/
+portfolio/
+web-projects/
+write-ups/
+
+
+broniz4m@github:~/workspace$ cd ~/notes
+
+broniz4m@github:~/notes$ cat process.txt
+
+Reproduce it.
+Figure out what actually caused it.
+Keep notes before I forget.
+Try not to turn every small idea into a three-week project.
+
+
+broniz4m@github:~/notes$ tail -n 1 current.log
+
+Still building whatever catches my interest.
+
+
+broniz4m@github:~/notes$ cd ~
+
+broniz4m@github:~$ cat cat.txt
+
+operation interrupted — paw detected
+
+
+broniz4m@github:~$ █
+```
