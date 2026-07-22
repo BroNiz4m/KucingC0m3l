@@ -79,10 +79,5 @@ Keep notes before I forget.
 Try not to turn every small idea into a three-week project.
 
 
-broniz4m@github:~/workspace/notes$ tail -n 1 current.log
-
-Still building whatever catches my interest.
-
-
 broniz4m@github:~/workspace/notes$ cd ~
 ```
